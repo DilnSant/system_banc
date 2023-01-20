@@ -1,3 +1,3 @@
 Apresentação do funcionamento de um sistema bancá
-FUNCIONAMENTO DE CXAIXA ELETRÔNICO
+FUNCIONAMENTO DE CAIXA ELETRÔNICO
 Código de Sistema bancário
